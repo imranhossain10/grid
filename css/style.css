@@ -1,0 +1,14 @@
+.blueBox{
+    background: #03a9f4 ;
+    height: 70px;
+    border:5px solid green;
+    font-size: 24px;
+    color: #fff;
+}
+.redBox{
+    background: #f40303 ;
+    height: 70px;
+    border:5px solid green;
+    font-size: 24px;
+    color: #fff;
+}
